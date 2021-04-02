@@ -116,7 +116,7 @@ const questions = [
             {text:'I had a headache last week', correct:false},
             {text:'I had had a breakfast before you came', correct:true},
             {text:'I have a car', correct:false},
-            {text:'I have been trying for a long time', correct:false},
+            {text:'I have been trying for a 3 months', correct:false},
         ]
     },
     {
